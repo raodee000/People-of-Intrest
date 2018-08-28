@@ -1,1 +1,3 @@
-# People-of-Intrest
+### People-of-Intrest
+# Karel Capek 
+Karel Capek was a Czech writer of the early 20th century, filled multiple roles during his career, including those of playwright, dramatist, essayist, publisher, literary reviewer, photographer, and art critic. He is known as a science fiction author, who wrote before science fiction became widely recognized as a separate genre. He had a spinal problem so he stared writing as a substituion to realive his pain. He went to Berlin, Pargue and Paris to study physcology. He wrote many books later in his life mainly about  men stepping out their boundieries to accomplish the impossible. In fact in one of his books, a scientist discovers way to create more reliable human beings and machines completely take over the society. This is when he made the word "robot" derived from a Czech word meaning "forced labour".
